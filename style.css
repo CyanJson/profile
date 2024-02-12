@@ -58,8 +58,8 @@ body{
     font-size: large;
     background: linear-gradient(to right, cyan, gold);
     -webkit-text-fill-color: transparent;
-    /* -webkit-background-clip: text; */
-    background-clip: text;
+    -webkit-background-clip: text;
+    /* background-clip: text; */
 }
 
 .profile-details{
