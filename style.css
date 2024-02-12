@@ -77,5 +77,11 @@ body{
 @media (max-width: 480px){
     .container{
         flex-direction: column;
+        gap: 10px;
+    }
+
+    .profile-details{
+        width: 300px;
+        height: 300px;
     }
 }
